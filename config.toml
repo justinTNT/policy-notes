@@ -1,0 +1,4 @@
+baseURL = 'https://policynotes.fyi/'
+languageCode = 'en-us'
+title = 'Policy Notes'
+theme = "paper"
